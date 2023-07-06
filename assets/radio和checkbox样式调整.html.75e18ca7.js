@@ -1,0 +1,17 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as n,c as a,a as s}from"./app.3c425ae9.js";const i={},d=s(`<h1 id="radio\u548Ccheckbox\u6837\u5F0F\u8C03\u6574" tabindex="-1"><a class="header-anchor" href="#radio\u548Ccheckbox\u6837\u5F0F\u8C03\u6574" aria-hidden="true">#</a> radio\u548Ccheckbox\u6837\u5F0F\u8C03\u6574</h1><h2 id="radio\u6837\u5F0F" tabindex="-1"><a class="header-anchor" href="#radio\u6837\u5F0F" aria-hidden="true">#</a> radio\u6837\u5F0F</h2><p>\u5728css\u4E2D\u6DFB\u52A0\u5982\u4E0B\u4EE3\u7801\uFF0C\u4FEE\u6539\u9009\u4E2D\u989C\u8272</p><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code>uni-radio:not<span class="token punctuation">(</span><span class="token punctuation">[</span>disabled<span class="token punctuation">]</span><span class="token punctuation">)</span> .uni-radio-input:hover <span class="token punctuation">{</span>
+	border-color: <span class="token comment">#d1d1d1;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>\u5728css\u4E2D\u6DFB\u52A0\u5982\u4E0B\u4EE3\u7801\uFF0C\u5373\u53EF\u5B9E\u73B0\u9009\u4E2D\u72B6\u6001\u586B\u5145\u989C\u8272\u6E10\u53D8</p><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code>.uni-radio-input-checked<span class="token punctuation">{</span>
+	background: linear-gradient<span class="token punctuation">(</span>142deg,<span class="token comment">#FF9200 0%,#FF2B2B 100%);</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="checkbox\u6837\u5F0F" tabindex="-1"><a class="header-anchor" href="#checkbox\u6837\u5F0F" aria-hidden="true">#</a> checkbox\u6837\u5F0F</h2><p>\u5728css\u4E2D\u6DFB\u52A0\u5982\u4E0B\u4EE3\u7801\uFF0C\u5373\u53EF\u53BB\u9664\u590D\u9009\u6846\u53F3\u8FB9\u7684\u8FB9\u8DDD</p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>uni-checkbox .uni-checkbox-input {
+	margin-right: 0 !important;
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>\u5728css\u4E2D\u6DFB\u52A0\u5982\u4E0B\u4EE3\u7801\uFF0C\u4FEE\u6539\u9009\u4E2D\u989C\u8272</p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>uni-checkbox:not([disabled]) .uni-checkbox-input:hover {
+	border-color: #d1d1d1;
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>\u5728css\u4E2D\u6DFB\u52A0\u5982\u4E0B\u4EE3\u7801\uFF0C\u5373\u53EF\u5B9E\u73B0\u9009\u4E2D\u72B6\u6001\u586B\u5145\u989C\u8272</p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>.uni-checkbox-input-checked{
+	background: linear-gradient(0,blue 0%,blue 100%);
+	border-color: blue;
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,13),c=[d];function r(t,l){return n(),a("div",null,c)}var p=e(i,[["render",r],["__file","radio\u548Ccheckbox\u6837\u5F0F\u8C03\u6574.html.vue"]]);export{p as default};
