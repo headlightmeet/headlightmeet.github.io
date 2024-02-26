@@ -1,0 +1,7 @@
+import{_ as n}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as s,c as a,d as t,a as e,e as i}from"./app-oGr5u-1Z.js";const o={},c=e("p",null," ",-1),l=i(`<h1 id="input输入时软键盘弹起将页面顶起-导致头部navbar隐藏" tabindex="-1"><a class="header-anchor" href="#input输入时软键盘弹起将页面顶起-导致头部navbar隐藏" aria-hidden="true">#</a> input输入时软键盘弹起将页面顶起，导致头部navbar隐藏</h1><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token string">&quot;style&quot;</span><span class="token builtin class-name">:</span> <span class="token punctuation">{</span>
+				//手机软键盘升起不让其将页面头部上推
+				<span class="token string">&quot;app-plus&quot;</span><span class="token builtin class-name">:</span> <span class="token punctuation">{</span>
+				    <span class="token string">&quot;softinputMode&quot;</span><span class="token builtin class-name">:</span> <span class="token string">&quot;adjustResize&quot;</span>
+				<span class="token punctuation">}</span>
+		<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,2);function u(p,r){return s(),a("div",null,[c,t(" more "),l])}const m=n(o,[["render",u],["__file","输入时软键盘弹起将页面顶起.html.vue"]]);export{m as default};
