@@ -1,0 +1,4 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as a,d as n,a as s,e as c}from"./app-PxqKmrwv.js";const o={},r=s("p",null," ",-1),d=c(`<h1 id="vue3事件携带附加参数" tabindex="-1"><a class="header-anchor" href="#vue3事件携带附加参数" aria-hidden="true">#</a> vue3事件携带附加参数</h1><p>vue给自带默认回调参数的函数添加自定义参数</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>&lt;a-checkbox class=&quot;enableState-style&quot; @change=&quot;(e) =&gt; statusChangeFun(e, record)&quot;&gt;
+关
+&lt;/a-checkbox&gt;
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3);function i(l,u){return t(),a("div",null,[r,n(" more "),d])}const m=e(o,[["render",i],["__file","vue3事件携带附加参数.html.vue"]]);export{m as default};

@@ -1,0 +1,12 @@
+import{_ as s}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as a,c as t,d as e,a as n,e as i}from"./app-PxqKmrwv.js";const l={},o=n("p",null,"--- title: 添加顶部导航栏颜色渐变 category:",-1),c=n("ul",null,[n("li",null,"前端 tag:"),n("li",null,"uniapp")],-1),p=n("hr",null,null,-1),u=n("p",null," ",-1),r=i(`<h1 id="添加顶部导航栏颜色渐变" tabindex="-1"><a class="header-anchor" href="#添加顶部导航栏颜色渐变" aria-hidden="true">#</a> 添加顶部导航栏颜色渐变</h1><p>在uniapp文件夹的pages.json文件中添加如下代码即可实现</p><p><strong>&quot;backgroundImage&quot;:&quot;linear-gradient(to right, #FFDE28,#FF3228)&quot;</strong></p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token punctuation">{</span>
+    <span class="token string">&quot;path&quot;</span><span class="token builtin class-name">:</span> <span class="token string">&quot;pages/mySuccessOrder/mySuccessOrder&quot;</span>,
+    <span class="token string">&quot;style&quot;</span><span class="token builtin class-name">:</span> <span class="token punctuation">{</span>
+        <span class="token string">&quot;navigationBarTitleText&quot;</span><span class="token builtin class-name">:</span> <span class="token string">&quot;支付&quot;</span>,
+        <span class="token string">&quot;app-plus&quot;</span><span class="token builtin class-name">:</span> <span class="token punctuation">{</span>
+            <span class="token string">&quot;titleNView&quot;</span><span class="token builtin class-name">:</span> <span class="token punctuation">{</span>  
+                <span class="token string">&quot;backgroundImage&quot;</span><span class="token builtin class-name">:</span><span class="token string">&quot;linear-gradient(to right, #FFDE28,#FF3228)&quot;</span>
+            <span class="token punctuation">}</span>  
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>结果：</p><img src="https://jitems.gitee.io/myblog/blog/bk232.png" alt="solar">`,6);function d(m,g){return a(),t("div",null,[o,c,p,u,e(" more "),r])}const k=s(l,[["render",d],["__file","添加顶部导航栏颜色渐变.html.vue"]]);export{k as default};
